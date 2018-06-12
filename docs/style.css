@@ -1,3 +1,8 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
 .calibre {
     display: block;
     font-size: 1em;
@@ -113,10 +118,5 @@
     }
 .toc {
     display: block
-    }
-
-@page {
-    margin-bottom: 5pt;
-    margin-top: 5pt
     }
 
