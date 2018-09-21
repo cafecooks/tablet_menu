@@ -9,79 +9,62 @@
 それではごゆっくりお過ごしくださいませ。
 
 
-# 旬のメニュー 
+# NEW メニュー 
 
-<img width="100%" src="images/IMG_1119.JPG">  
-**小鮎の天ぷら**
+<img src="images/IMG_2223.jpg"/>  
+秋刀魚とトリッパのトマト煮・・・980円
 
-* 新ごぼうと小エビのかきあげ・・・・・・・800円
-* 小鮎の天ぷら・・・・・・・・・・・・・・800円
-* 水なすと生ハムチーズのカルパッチョ・・・580円
-* 焼きなす・・・・・・・・・・・・・・・・380円
-* ハモ皮・・・・・・・・・・・・・・・・・350円
+* 秋刀魚の塩焼き・・・・・・・・・500円
+* 戻りカツオのレアカツ・・・・・・900円  
+  塩でどうぞ
+* 手作り豆腐・・・・・・・・・・・380円  
+  塩とオリーブ、ねぎと生姜、かつおぶしが付いています。
+
+# おすすめの一品
+<img src="images/000013.jpg">
+
+**ロールレタス**(写真はキャベツです・・・)
+
+* ロールレタス・・・・・・・・・・680円
+* ロールチーズ・・・・・・・・・・380円  
+  ロールチーズはレタスの中にチーズが入っています。
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/000013.jpg">  
-**ロールキャベツ**
-
-今はレタスです。
-
-<hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/000015.jpg">  
-**穴子天**
-
-<hr style="page-break-before:always;display:none;"/>
-<img width="90%" src="images/IMG_1127.JPG">  
-**ねぎバーグ・・・680 yen (ネギ感がアップしました)**  
-クック酢のハンバーグの選びかた。  
-デミグラ、焼きのどちらかを選びます。  
-デミグラの場合は、プレーン\(600円\)かとろ〜りチーズ\(700円\)を選びます。\(とろ〜りチーズには、インカのめざめが付いてます。\)  
-焼きの場合は、レンコン、ごぼう\(3〜4月は新物です\)、ねぎから選べます。\(上の写真はねぎの場合です\)  
-ソースもお選びください。トマトか大根おろしを選べます。
+<img src="images/IMG_1127.JPG">  
+**ねぎバーグ・・・680 yen**(ネギ感がアップしました)
 
 鹿児島南国ポークの背脂をカリカリに炒めて乗せました。
 
-# 新メニュー 
+ソースは、トマトか大根おろしをお選びください。
 
-<img width="100%" src="images/000021.jpg">  
-**コールドポーク・・・680 yen**
-
-コールドポークというよりは蒸し豚。  
-長ねぎ、お酒、しょうが等と茹でました。  
-食べてください、コールドポーク。  
-葱ダレでどうぞ。
-
-コールドポークは馬路村のゆず香るサラダパスタ(900yen)にも使っています。
-具だくさんオリーブオイルをのせて。
-
+レンコンバーグ、ごぼうバーグもできる場合もありますので、スタッフにお尋ねください。
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/000007.jpg">  
+<img src="images/000007.jpg">  
 **明石焼風たまご焼き ・・・680 yen**  
 焼きなすも付いてます。 
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/000000.jpg">  
+<img src="images/000000.jpg">  
 **ヤゲンなんこつとポテトフライ・・・580 yen**  
 スタッフによると「まじヤバ」だそうです。 
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="10%" src="images/000001.png">  
-フランスパンのフレンチトースト\(単品650yen/SET750yen\)だけでなく、ふわふわ食パンのフレンチトーストがメニューに加わりました。  
+フランスパン<img src="images/000001.png">のフレンチトースト(単品650yen/SET750yen)だけでなく、ふわふわ食パンのフレンチトーストがメニューに加わりました。  
 ココナッツオイルで焼いています。
 
-<img width="100%" src="images/000020.png">  
+<img src="images/000020.png">  
 **ふわふわのフレンチトースト・・・490 yen**   
 撮影の都合3切れですが、実際には4切れです。 
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/000008.jpg">  
-**餃子\(6個\)・・・290 yen**  
+<img src="images/000008.jpg">  
+**餃子(6個)・・・290 yen**  
 オシャレな餃子を<img src="images/eighth_note-1.png">  
 トリュフ塩 or 酢胡椒でどうぞ
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/オープンオムレツ_collage.jpg">  
+<img src="images/オープンオムレツ_collage.jpg">  
 **オープンオムレツ**  
 
 * 新じゃがと厚切りベーコンのオープンオムレツ・・・680yen
@@ -92,11 +75,11 @@
 
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/IMG_0943.jpg">
+<img src="images/IMG_0943.jpg">  
 **揚げ出し豆腐と揚げ出しおもち・・・650yen**  
 
 <hr style="page-break-before:always;display:none;"/>
-<img width="100%" src="images/1522587568558.JPEG">
+<img src="images/1522587568558.JPEG">  
 **牛肉とレンコンのいため煮・・・680yen**  
 上に乗っているのは、さつまいもで作った春雨です。  
 胡麻油と唐辛子で炒めて<img src="images/eighth_note-1.png">、レンコン、牛肉と炒め煮しました。
@@ -108,20 +91,20 @@
 
 おかずだけも選べます。 
 
-<img width="70%" src="images/000019.jpg">  
-**Aセット\(お刺身\)・・・1200 yen**
+<img src="images/000019.jpg">  
+**Aセット(お刺身)・・・1200 yen**
 
-<img width="70%" src="images/000017.jpg">  
-**Bセット\(ローストビーフ\)・・・1200 yen**
+<img src="images/000017.jpg">  
+**Bセット(ローストビーフ)・・・1200 yen**
 
 <hr style="page-break-before:always;display:none;"/>
 **Cセット・・・各1000yen**  
-選べるようになりました\!  
+選べるようになりました!  
 
 <img widht="100%" src="images/c_set_collage.png">
 
 # パフェ
-<img width="100%" src="images/パフェ_collage.jpg">
+<img src="images/パフェ_collage.jpg">
 
 * アイスに恋するお芋さんパフェ・・・680yen
 * 宇治金時抹茶パフェ・・・・・・・・580yen
@@ -140,12 +123,12 @@
 - 酢ジュース・・・・・・・410yen  
 **酢フルーツ付き**  
 果物と割り方をお選びください。  
-果物はスタッフまで。  
 ソーダ or 紅茶 or 牛乳 or カルピスで割ります。  
 (カルピス割り考案者：スタッフあむちゃん)
 
 - ゆず酢ジュース・・・・・380yen
 - 生ジュース・・・・・・・580yen  
+  季節のフルーツ100%
 - いちごミルク（季節）・・480yen
 - バナナジュース・・・・・450yen 
 
@@ -246,11 +229,3 @@
 - ボウモア１２年（アイラ）・・・・・・・900yen  
   あまりのスモーキーさにハマルかも？
 
-## 果実酒
-
-各450yen
-
-- パイン
-- イチゴ
-- グレープフルーツ(生絞り果汁付き)
-- ジンジャー
