@@ -4,9 +4,10 @@
 ============================
 
 使用するタブレット
-    [zenpad 8.0](http://www.runserver.jp/?p=884)。
+    [zenpad 8.0](https://cafe-cooks.com/review/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAandroid%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/)
+
 タブレットにインストールするソフト
-    lithium という epub reader
+    Reasily - EPUB Reader
 
 EPUB を生成
 ------------------
