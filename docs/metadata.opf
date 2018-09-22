@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">af082312-e767-4a8e-95ac-923f5b153180</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">af082312-e767-4a8e-95ac-923f5b153180</dc:identifier>
-        <dc:title>tablet menu 180921</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f734ec92-7e83-4b21-8ce8-e056cdd3c9f7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f734ec92-7e83-4b21-8ce8-e056cdd3c9f7</dc:identifier>
+        <dc:title>tablet menu 180922</dc:title>
         <dc:creator opf:file-as="クック酢" opf:role="aut">クック酢</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.25.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>

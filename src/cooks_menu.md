@@ -229,3 +229,51 @@
 - ボウモア１２年（アイラ）・・・・・・・900yen  
   あまりのスモーキーさにハマルかも？
 
+# 本のメニューより
+<img src="images/book_menu/DSC_0694.jpg"/>
+<img src="images/book_menu/DSC_0695.jpg"/>
+<img src="images/book_menu/DSC_0696.jpg"/>
+<img src="images/book_menu/DSC_0697.jpg"/>
+<img src="images/book_menu/DSC_0697_2.jpg"/>
+<img src="images/book_menu/DSC_0698.jpg"/>
+<img src="images/book_menu/DSC_0698_2.jpg"/>
+<img src="images/book_menu/DSC_0699_0.jpg"/>
+<img src="images/book_menu/DSC_0699_1.jpg"/>
+<img src="images/book_menu/DSC_0700.jpg"/>
+<img src="images/book_menu/DSC_0700_1.jpg"/>
+<img src="images/book_menu/DSC_0701.jpg"/>
+<img src="images/book_menu/DSC_0702.jpg"/>
+<img src="images/book_menu/DSC_0703.jpg"/>
+<img src="images/book_menu/DSC_0704.jpg"/>
+<img src="images/book_menu/DSC_0705.jpg"/>
+<img src="images/book_menu/DSC_0706.jpg"/>
+<img src="images/book_menu/DSC_0707.jpg"/>
+<img src="images/book_menu/DSC_0709.jpg"/>
+<img src="images/book_menu/DSC_0710.jpg"/>
+<img src="images/book_menu/DSC_0711.jpg"/>
+<img src="images/book_menu/DSC_0712.jpg"/>
+<img src="images/book_menu/DSC_0713.jpg"/>
+<img src="images/book_menu/DSC_0714.jpg"/>
+<img src="images/book_menu/DSC_0715.jpg"/>
+<img src="images/book_menu/DSC_0721.jpg"/>
+<img src="images/book_menu/DSC_0722.jpg"/>
+<img src="images/book_menu/DSC_0723.jpg"/>
+
+## クック酢のお料理について
+<img src="images/book_menu/DSC_0716.jpg"/>
+
+## クック酢年中行事
+<img src="images/book_menu/DSC_0717.jpg"/>
+<img src="images/book_menu/DSC_0718.jpg"/>
+<img src="images/book_menu/DSC_0719.jpg"/>
+<img src="images/book_menu/DSC_0720.jpg"/>
+
+# タペストリーや壁のメニュー
+<img src="images/book_menu/DSC_0724.jpg"/>
+<img src="images/book_menu/DSC_0725.jpg"/>
+<img src="images/book_menu/DSC_0726.jpg"/>
+<img src="images/book_menu/DSC_0727.jpg"/>
+<img src="images/book_menu/DSC_0728.jpg"/>
+
+## お肉料理
+<img src="images/book_menu/DSC_0729.jpg"/>
