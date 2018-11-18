@@ -53,7 +53,7 @@
 フランスパン<img src="images/000001.png">のフレンチトースト(単品650yen/SET750yen)だけでなく、ふわふわ食パンのフレンチトーストがメニューに加わりました。  
 ココナッツオイルで焼いています。
 
-<img src="images/000020.png">  
+<img src="images/000020.jpg">  
 **ふわふわのフレンチトースト・・・490 yen**   
 撮影の都合3切れですが、実際には4切れです。 
 
@@ -101,7 +101,7 @@
 **Cセット・・・各1000yen**  
 選べるようになりました!  
 
-<img widht="100%" src="images/c_set_collage.png">
+<img widht="100%" src="images/c_set_collage.jpg">
 
 # パフェ
 <img src="images/パフェ_collage.jpg">
@@ -145,11 +145,6 @@
 - ホットオーレ・・・・・・410yen
 - アイスオーレ・・・・・・410yen
 - ホッチョコ・・・・・・・450yen
-
-<video controls>
-  <source src="movie/tmrz-1518447087.webm" type="video/webm">
-  <source src="movie/tmrz-1518447087.MP4" type="video/mp4">
-</video>
 
 ## ジュース類
 
